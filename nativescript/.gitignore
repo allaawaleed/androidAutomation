@@ -31,5 +31,4 @@ local.properties
 *.rar
 target/
 test-output/
-
 .DS_Store
